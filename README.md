@@ -34,6 +34,7 @@ This is the free version of my grabber. a paid version with a whole bunch more a
 - + Startup
 - + Cammera pic
 - + Blocked websites
+- + C# encoder to Base64
 
 ## :warning: Disclaimer
 
